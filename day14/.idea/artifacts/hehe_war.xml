@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hehe:war">
+    <output-path>$PROJECT_DIR$/hehe/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>hehe</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="hehe-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="hehe:war exploded" />
+    </root>
+  </artifact>
+</component>

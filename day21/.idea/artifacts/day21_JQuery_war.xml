@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="day21_JQuery:war">
+    <output-path>$PROJECT_DIR$/day21_JQuery/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>day21_JQuery</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="day21_JQuery-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="day21_JQuery:war exploded" />
+    </root>
+  </artifact>
+</component>
